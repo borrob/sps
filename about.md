@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Over SPS
-permalink: /about
+title: "Over SPS"
 ---
 
 # SPS
