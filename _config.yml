@@ -1,5 +1,3 @@
-theme: minima
+theme: slate
 title: Stichting PS
 description: This is a first test, we will make it better.
-minima:
-  skin: solarized-light
