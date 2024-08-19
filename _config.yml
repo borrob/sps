@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 title: Stichting PS
 description: This is a first test, we will make it better.
+minima:
+  skin: solarized
