@@ -1,12 +1,8 @@
-# Hello World
+# Stichting Present Sound
 
-Here is the very first welcome page. More information will follow. For now: here is a train:
-<pre>
-   _____                 . . . . . o o o o o
-  __|[_]|__ ___________ _______    ____      o
- |[] [] []| [] [] [] [] [_____(__  ][]]_n_n__][.
-_|________|_[_________]_[________]_|__|________)<
-  oo    oo 'oo      oo ' oo    oo 'oo 0000---oo\_
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- </pre>
- Thank you [ASCII Art](https://www.asciiart.eu/vehicles/trains)
+Stichting Present Sound bestaat sinds 2016. Zoals in onze statuten staat, heeft de stichting als doel het bedenken en ten uitvoering brengen van muziekprojecten, alles in de ruimste zin van het woord. Hieronder vallen ook nieuwe manieren om muziek te presenteren voor meer dan alleen het traditionele concertgaande publiek.
+
+Het bestuur van de stichting bestaat uit violist Ian de Jong, bassist en concertorganisator Kasper Valentijn Stern en componist Anthony Leigh Dunstan. De directie van de stichting bestaat uit componist/fluitist/projectleider Albert Manders,  bassist/componist/producent Hinse Mutter en pianist/artistiek projectleider Anne Veinberg. 
+
+Lees [hier onze doelstelling](https://github.com/borrob/sps/edit/main/about.md)
+
